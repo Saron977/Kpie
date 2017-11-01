@@ -1,0 +1,89 @@
+//
+//  BYC_QNWSPrefixHeader.pch
+//  kpie
+//
+//  Created by 元朝 on 15/10/26.
+//  Copyright © 2015年 QNWS. All rights reserved.
+//
+
+#ifndef BYC_QNWSPrefixHeader_pch
+#define BYC_QNWSPrefixHeader_pch
+
+//#define MAS_SHORTHAND
+//#define MAS_SHORTHAND_GLOBALS
+//***************************类库头文件**************************//
+
+#ifdef __OBJC__// __OBJC__
+
+#import "UIImageView+WebCache.h"
+#import "BYC_HttpServers.h"
+#import "MJRefresh.h"
+#import "UIView+BYC_HUD.h"
+#import "UIViewExt.h"
+#import "Masonry.h"
+#import "BYC_AccountTool.h"
+#import "BYC_FunctionTools.h"
+#import "BYC_ServerPort.h"
+#import "BYC_Notification.h"
+#import "BYC_CommonConst.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "BYC_MainTabBarController.h"
+#import "BYC_MainNavigationController.h"
+#import "WX_TencentTool.h"
+//***************************框架相关***************************//
+#define KQNWS_KeyWindow [UIApplication sharedApplication].keyWindow
+#define KQNWS_AppDelegate ((AppDelegate *)[UIApplication sharedApplication].delegate)
+
+//主标签控制器
+#define KMainTabBarVC [BYC_MainTabBarController sharedBYC_MainTabBarController]
+//主框架导航控制器
+#define KMainNavigationVC [BYC_MainNavigationController sharedBYC_MainNavigationController]
+
+//***************************设备相关***************************//
+
+//旋转之后屏幕尺寸变化。这两个宏是设备随旋转状态的改变而改变的
+#define screenWidth_Origin [UIScreen mainScreen].bounds.size.width
+#define screenHeight_Origin [UIScreen mainScreen].bounds.size.height
+
+//固定竖屏状态下的屏幕 宽高
+#define screenWidth  (screenWidth_Origin > screenHeight_Origin ? screenHeight_Origin : screenWidth_Origin)
+#define screenHeight (screenHeight_Origin > screenWidth_Origin ? screenHeight_Origin : screenWidth_Origin)
+//以下是4 5 6 6p的尺寸
+#define KCurrentDeviceIsIphone4  screenHeight == 480 ? YES : NO
+#define KCurrentDeviceIsIphone5  screenHeight == 568 ? YES : NO
+#define KCurrentDeviceIsIphone6  screenHeight == 667 ? YES : NO
+#define KCurrentDeviceIsIphone6p screenHeight == 736 ? YES : NO
+
+//活动外
+#define KImageHeight_ActivityOut  screenWidth / 2.34f
+//活动内
+#define KImageHeight_ActivityIn   screenWidth / 2.23f
+//Banner
+#define KImageHeight_Banner      screenWidth / 2.5f
+//频道
+#define KImageHeight_Channel      screenWidth / 4.167f
+
+//导航控制器的高度
+#define KHeightNavigationBar 64
+#define KHeightStateBar 20
+//部分默认控件的高度
+#define KHeightCustomControl 44
+//下拉刷新view的高度
+#define KHeightTabBar 49
+//以iPhone6尺寸为标准，按比例适配其它尺寸
+#define KWidthOnTheBasisOfIPhone6Size(Value) (Value) * screenWidth / 375.f
+#define KHeightOnTheBasisOfIPhone6Size(Value) (Value) * screenHeight / 667.f
+//以iPhone6尺寸为标准(除了6p就使用6的尺寸)，其它按比例适配其它尺寸
+#define KWidthOnTheBasisOfIPhone6SizeNONeed6P(Value)  (Value) * (screenHeight >= 667 ? 1 : screenWidth / 375.f)
+#define KHeightOnTheBasisOfIPhone6SizeNONeed6P(Value)  (Value) * (screenHeight >= 667 ? 1 : screenHeight / 667.f)
+
+// 0代表可以模拟器运行     1代表只能真机运行
+// 1 _ 正式版本
+// !TARGET_IPHONE_SIMULATOR  调试用
+#define KSimulatorRun !TARGET_IPHONE_SIMULATOR
+
+// 获取设备版本
+#define KDeviceVersion [[[UIDevice currentDevice] systemVersion]floatValue]
+
+#endif // __OBJC__
+#endif /* BYC_QNWSPrefixHeader_pch */

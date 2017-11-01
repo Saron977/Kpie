@@ -1,0 +1,38 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8AE50B85302AD476C2E201BB8EBF051F0C63CB23" : {
+
+    },
+    "e74ff2e6-8be5-44ac-a40c-2c65889bd99f++5305" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8AE50B85302AD476C2E201BB8EBF051F0C63CB23" : 0,
+    "e74ff2e6-8be5-44ac-a40c-2c65889bd99f++5305" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78BEC4EC-A8F4-4A71-A6DB-9C6A05679F0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+<<<<<<< .mine
+    "8AE50B85302AD476C2E201BB8EBF051F0C63CB23" : "iOS_kpie\/kpie\/SDK\/oss_ios_sdk\/",
+=======
+    "8AE50B85302AD476C2E201BB8EBF051F0C63CB23" : "kpie\/kpie\/SDK\/oss_ios_sdk\/",
+>>>>>>> .r9477
+    "e74ff2e6-8be5-44ac-a40c-2c65889bd99f++5305" : "kpie\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kpie",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kpie.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.alibaba-inc.com:sysnet\/oss_ios_sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AE50B85302AD476C2E201BB8EBF051F0C63CB23"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.74.88.81",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e74ff2e6-8be5-44ac-a40c-2c65889bd99f++5305"
+    }
+  ]
+}

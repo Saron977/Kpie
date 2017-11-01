@@ -1,0 +1,21 @@
+platform :ios, '8.0'
+
+target "kpie" do
+pod 'AFNetworking', '~> 2.5'
+pod 'Masonry'
+pod 'FMDB'
+pod 'SSZipArchive'
+pod 'MJExtension'
+pod 'MJRefresh','~> 2.4.1'
+pod 'SDWebImage'
+pod 'IQKeyboardManager'
+pod 'pop'
+pod 'ZFPlayer'
+pod 'DZNEmptyDataSet'
+pod 'ReactiveCocoa', '~> 2.5'
+pod 'TTTAttributedLabel'
+
+pod 'Reveal-iOS-SDK', :configurations => ['Debug']
+
+end
+

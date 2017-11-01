@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/TabBarItem4/Handles/HL_JumpToVideoPlayVC.m"
+            timestampString = "520325306.486928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "+jumpToVCWithModel:andVideoTepy:andisComment:andFromType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/AppDelegate/Handles/APP_RemoteNotificationsHandle/AppDelegate+BYC_RemoteNotificationsHandle.m"
+            timestampString = "520332971.024429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-excNotification:State:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/AppDelegate/Handles/APP_RemoteNotificationsHandle/AppDelegate+BYC_RemoteNotificationsHandle.m"
+            timestampString = "520334358.83835"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "-exeOpenVideoPageWithVideoID:ENUM_VideoType:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate(BYC_RemoteNotificationsHandle) exeOpenVideoPageWithVideoID:ENUM_VideoType:]"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/AppDelegate/Handles/APP_RemoteNotificationsHandle/AppDelegate+BYC_RemoteNotificationsHandle.m"
+                  timestampString = "527508971.679408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__89-[AppDelegate(BYC_RemoteNotificationsHandle) exeOpenVideoPageWithVideoID:ENUM_VideoType:]_block_invoke"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/AppDelegate/Handles/APP_RemoteNotificationsHandle/AppDelegate+BYC_RemoteNotificationsHandle.m"
+                  timestampString = "527508971.681317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+            timestampString = "520333769.218858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "+WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BYC_HttpServers(WX_VideoPushRequest) WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:]"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+                  timestampString = "527508971.685895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__101+[BYC_HttpServers(WX_VideoPushRequest) WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:]_block_invoke_2"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+                  timestampString = "527508971.68793"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+            timestampString = "520333767.498377"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "+WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BYC_HttpServers(WX_VideoPushRequest) WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:]"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+                  timestampString = "527508971.924212"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__101+[BYC_HttpServers(WX_VideoPushRequest) WX_RequestVideoPushWithVideoID:ENUM_PushType:success:failure:]_block_invoke"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+WX_VideoPushRequest.m"
+                  timestampString = "527508971.927513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+HL_VideoPlayVC.m"
+            timestampString = "520334075.048732"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "+requestVideoPlayVCscriptModelOnNetWithParameters:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BYC_HttpServers(HL_VideoPlayVC) requestVideoPlayVCscriptModelOnNetWithParameters:success:failure:]"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+HL_VideoPlayVC.m"
+                  timestampString = "527508971.971764"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__100+[BYC_HttpServers(HL_VideoPlayVC) requestVideoPlayVCscriptModelOnNetWithParameters:success:failure:]_block_invoke"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/HttpServer/HttpServer_Gategory/BYC_HttpServers+HL_VideoPlayVC.m"
+                  timestampString = "527508971.974784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/Left/LeftMassege/View/BYC_LeftNotificationCell.m"
+            timestampString = "520337233.865199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "-buttonAction:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/Left/LeftMassege/Controller/BYC_LeftMassegeViewController.m"
+            timestampString = "520338757.377223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "-collectionView:cellForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/Left/LeftMassege/Controller/BYC_LeftMassegeViewController.m"
+            timestampString = "520392268.592307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "461"
+            endingLineNumber = "461"
+            landmarkName = "-WX_GoToVideoPageWithVideoID:ENUM_VideoType:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BYC_LeftMassegeViewController WX_GoToVideoPageWithVideoID:ENUM_VideoType:]"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/Class/Left/LeftMassege/Controller/BYC_LeftMassegeViewController.m"
+                  timestampString = "527508971.992674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "461"
+                  endingLineNumber = "461"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__76-[BYC_LeftMassegeViewController WX_GoToVideoPageWithVideoID:ENUM_VideoType:]_block_invoke"
+                  moduleName = "kpie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangaoqing/Desktop/%E4%B8%B6/SVN/Kpie/kpie/kpie/Class/Left/LeftMassege/Controller/BYC_LeftMassegeViewController.m"
+                  timestampString = "527508971.995687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "463"
+                  endingLineNumber = "463"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/Left/LeftMassege/Controller/BYC_LeftMassegeViewController.m"
+            timestampString = "520392275.690978"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
+            landmarkName = "-collectionView:didSelectItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Class/TabBarItem3/ShootingScript/Controller/WX_ShootingScriptViewController.m"
+            timestampString = "520394709.505138"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1411"
+            endingLineNumber = "1411"
+            landmarkName = "-collectionView:cellForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Tools/BYC_ProjectTools/BYC_UMengTools/BYC_UMengShareTool.m"
+            timestampString = "523505772.661183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "+setShareAppIDAndAppKey"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kpie/Tools/BYC_ProjectTools/BYC_UMengTools/BYC_UMengShareTool.m"
+            timestampString = "523506813.480976"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
+            landmarkName = "+loginPlatform:presentingController:thirdAccountDictionary:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
